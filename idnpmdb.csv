@@ -1,0 +1,10 @@
+﻿Date,Buyer,Type,Amount
+20-Feb,Kelly,Music,$20 
+01-Jan,Dad,Gifts,$95 
+21-Jan,Dad,Food,$125 
+25-Feb,Kelly,Tickets,$125 
+25-Feb,Kelly,Sports,$125 
+02-Feb,Mom,Food,$235 
+17-Jan,Mom,Tickets,$250 
+15-Jan,Mom,Food,$325 
+,Sum,0,"$1,300 "
