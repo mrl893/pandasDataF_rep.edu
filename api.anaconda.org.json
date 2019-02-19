@@ -1,0 +1,9 @@
+{
+  "api_docs_url": "https://api.anaconda.org/docs", 
+  "brand": "Anaconda Cloud", 
+  "conda_url": "https://conda.anaconda.org/", 
+  "main_url": "https://anaconda.org/", 
+  "ok": 1, 
+  "pypi_url": "https://pypi.anaconda.org/", 
+  "swagger_url": "https://api.anaconda.org/swagger.json"
+}

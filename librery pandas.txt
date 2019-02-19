@@ -1,0 +1,8 @@
+﻿import numpy as np
+import pandas as pd
+from pandas import Series, DataFrame
+import matplotlib.pyplot as ptl
+from pylab import rcParams
+import seaborn as sb
+import scipy
+from scipy.stats import spearmanr
